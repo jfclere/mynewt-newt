@@ -37,7 +37,7 @@ This downloads the dependencies and builds newt executable.
 You can test the installation by running newt:
 
 ```no-highlight
-$ newt
+$ ./newt
 Newt allows you to create your own embedded application based on the Mynewt
 operating system. Newt provides both build and package management in a single
 tool, which allows you to compose an embedded application, and set of
